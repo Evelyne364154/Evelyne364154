@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Evelyne364154/Evelyne364154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Evelyne364154&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
